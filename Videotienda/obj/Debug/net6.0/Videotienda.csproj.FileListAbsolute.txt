@@ -1,0 +1,15 @@
+C:\Users\juans\source\repos\Videotienda\Videotienda\bin\Debug\net6.0\Videotienda.exe
+C:\Users\juans\source\repos\Videotienda\Videotienda\bin\Debug\net6.0\Videotienda.deps.json
+C:\Users\juans\source\repos\Videotienda\Videotienda\bin\Debug\net6.0\Videotienda.runtimeconfig.json
+C:\Users\juans\source\repos\Videotienda\Videotienda\bin\Debug\net6.0\Videotienda.dll
+C:\Users\juans\source\repos\Videotienda\Videotienda\bin\Debug\net6.0\Videotienda.pdb
+C:\Users\juans\source\repos\Videotienda\Videotienda\obj\Debug\net6.0\Videotienda.csproj.AssemblyReference.cache
+C:\Users\juans\source\repos\Videotienda\Videotienda\obj\Debug\net6.0\Videotienda.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\juans\source\repos\Videotienda\Videotienda\obj\Debug\net6.0\Videotienda.AssemblyInfoInputs.cache
+C:\Users\juans\source\repos\Videotienda\Videotienda\obj\Debug\net6.0\Videotienda.AssemblyInfo.cs
+C:\Users\juans\source\repos\Videotienda\Videotienda\obj\Debug\net6.0\Videotienda.csproj.CoreCompileInputs.cache
+C:\Users\juans\source\repos\Videotienda\Videotienda\obj\Debug\net6.0\Videotienda.dll
+C:\Users\juans\source\repos\Videotienda\Videotienda\obj\Debug\net6.0\refint\Videotienda.dll
+C:\Users\juans\source\repos\Videotienda\Videotienda\obj\Debug\net6.0\Videotienda.pdb
+C:\Users\juans\source\repos\Videotienda\Videotienda\obj\Debug\net6.0\Videotienda.genruntimeconfig.cache
+C:\Users\juans\source\repos\Videotienda\Videotienda\obj\Debug\net6.0\ref\Videotienda.dll
